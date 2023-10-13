@@ -6,7 +6,6 @@ matplotlib
 ipywidgets
 ipython
 voila
-math
 os
 csv
 webbrowser
