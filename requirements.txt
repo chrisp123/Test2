@@ -6,7 +6,6 @@ matplotlib
 ipywidgets
 ipython
 voila
-random
 math
 os
 csv
