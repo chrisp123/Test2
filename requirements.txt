@@ -6,6 +6,5 @@ matplotlib
 ipywidgets
 ipython
 voila
-timeit
 ast
 statistics
