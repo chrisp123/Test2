@@ -6,3 +6,11 @@ matplotlib
 ipywidgets
 ipython
 voila
+random
+math
+os
+csv
+webbrowser
+timeit
+ast
+statistics
