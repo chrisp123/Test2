@@ -2,6 +2,5 @@ ipywidgets==8.1.1
 datetime
 numpy
 matplotlib
-math
 scipy
 voila
