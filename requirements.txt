@@ -6,4 +6,3 @@ matplotlib
 ipywidgets
 ipython
 voila
-flask
