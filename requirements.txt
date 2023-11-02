@@ -1,8 +1,9 @@
-jupyterlab
-plotly-express
 ipywidgets
+IPython.display
+datetime
 numpy
-matplotlib
-ipywidgets
-ipython
+matplotlib.pyplot
+random
+math
+scipy.optimize.curve_fit
 voila
