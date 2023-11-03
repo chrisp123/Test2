@@ -1,5 +1,5 @@
-jupyterlab
-ipywidgets==8.1.1
+jupyter
+ipywidgets
 datetime
 numpy
 matplotlib
