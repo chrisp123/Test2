@@ -3,5 +3,5 @@ ipywidgets
 datetime
 numpy
 matplotlib
-scipy
 voila
+ipython
