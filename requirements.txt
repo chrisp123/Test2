@@ -1,6 +1,7 @@
-jupyter
 ipywidgets
+ipython
 numpy
 matplotlib
-voila
-ipython
+timeit
+csv
+statistics
