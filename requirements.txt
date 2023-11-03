@@ -1,6 +1,5 @@
 jupyter
 ipywidgets
-datetime
 numpy
 matplotlib
 voila
