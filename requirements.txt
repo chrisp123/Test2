@@ -2,6 +2,4 @@ ipywidgets
 ipython
 numpy
 matplotlib
-timeit
-csv
-statistics
+voila
