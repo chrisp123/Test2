@@ -8,7 +8,6 @@ argon2-cffi>=21.3.0
 argparse>=1.4.0
 arrow>=1.2.2
 astroid>=2.11.7
-astropy>=5.1
 atomicwrites>=1.4.0
 attrs>=21.4.0
 automat>=20.2.0
