@@ -204,7 +204,6 @@ pynacl>=1.5.0
 pyodbc>=4.0.34
 pyopenssl>=22.0.0
 pyparsing>=3.0.9
-pyproj>=3.6.0
 pyrsistent>=0.18.0
 pysocks>=1.7.1
 pytest>=7.1.2
