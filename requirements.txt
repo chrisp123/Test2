@@ -72,7 +72,6 @@ future>=0.18.2
 genetic-algorithm>=1.0.0
 geneticalgorithm>=1.0.2
 gensim>=4.1.2
-geopandas>=0.14.0
 glob2>=0.7
 greenlet>=1.1.1
 h5py>=3.7.0
